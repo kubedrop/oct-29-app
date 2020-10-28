@@ -1,6 +1,6 @@
 # Drupal 8 Starterkit
 This starterkit is based on php-fpm and apache. The default php version is 7.3 which is configurable.
-Refer [Configurations](#Configurations) section for further details.
+Refer [Configurations](#Configurations) section for further details..
 
 ## Configurations
 All the configurations are managed via environment variables, some of mostly used environment variables
